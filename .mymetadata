@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="lekang_portal"
+  id="myeclipse.1443947327661"
+  context-root="/lekang_portal"
+  j2ee-spec="5.0"
+  archive="lekang_portal.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
